@@ -2,7 +2,7 @@
 ## functions do 
 
 ## The function i've wrote gets a square inversible matrix as an input and gives its 
-inverse as an output. My code is quite similar to the code named "cachedmean"
+##inverse as an output. My code is quite similar to the code named "cachedmean"
 
 ## Write a short comment describing this function
 
